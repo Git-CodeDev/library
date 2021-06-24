@@ -31,6 +31,7 @@ class BookList extends Component {
 
     render() {
         const {bookItems, loading, error} = this.props;
+        const modal = true;
         
         if (error) return <Error/>
         if (loading) return <Spinner/>
