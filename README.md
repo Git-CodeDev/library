@@ -1,7 +1,7 @@
-Для запуска необходимо прописать в консоле:
+Для запуска:  
 
-• npm install
+- npm install
 
-• json-server src/db.json
+- json-server src/db.json
 
-• gulp
+- gulp
